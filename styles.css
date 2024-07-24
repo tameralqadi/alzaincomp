@@ -63,7 +63,7 @@ nav ul li a {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   /* ثلاثة أعمدة متساوية */
-  grid-gap: 10px;
+  grid-gap: 5px;
   /* المسافة بين العناصر */
 }
 
@@ -74,7 +74,7 @@ nav ul li a {
 }
 
 .products {
-  margin: 20px;
+  margin: 2px;
   background-color: #f7f7f7;
   padding: 10px;
   border: 1px solid #ddd;
