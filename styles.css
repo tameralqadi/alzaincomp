@@ -43,7 +43,8 @@ h1 {
 
 nav ul {
     list-style: none;
-  paddind-top:40px;
+  paddind-top:20px;
+  padding:20px
     margin:10px;
     display: flex;
     justify-content: space-around;
